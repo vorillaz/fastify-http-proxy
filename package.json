@@ -42,7 +42,7 @@
     "socket.io": "^3.0.4",
     "socket.io-client": "^3.0.4",
     "standard": "^16.0.3",
-    "tap": "^14.10.8",
+    "tap": "^15.0.9",
     "tsd": "^0.14.0",
     "typescript": "^4.0.2"
   },
